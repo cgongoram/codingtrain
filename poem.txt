@@ -6,4 +6,4 @@ Orange
 Blue
 Red
 
-These are thje colors of the rainbow.
+These are the colors of the rainbow.
